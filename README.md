@@ -25,4 +25,4 @@ Este projeto foi desenvolvido e  aprimorado como parte do curso SQL Specialist d
 
  - Estoque:
     - Necessário informar a quantidade dos produtos em estoque.
-    - Informar local. (?)
+    - Informar local. 
