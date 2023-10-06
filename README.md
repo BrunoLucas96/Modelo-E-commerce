@@ -1,4 +1,4 @@
-# Modelo Lógico para E-commerce
+# Projeto de um BD para E-commerce
 Este projeto foi desenvolvido e  aprimorado como parte da Formação [SQL Database Specialist](https://web.dio.me/track/1a5a10ed-417c-4fef-8531-2097ff072817) da DIO, e foi feito no MySQL Workbench. O modelo conceitual foi desenvolvido usando o modelo entidade-relacionamento (ER), que é um modelo gráfico para representar a estrutura de dados de um sistema de informação.
 
 ## Narrativa
